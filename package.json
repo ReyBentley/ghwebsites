@@ -1,0 +1,14 @@
+{
+  "name": "ghwebsites",
+  "version": "1.0.0",
+  "description": "git web example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rey Bentley",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
